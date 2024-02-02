@@ -1,12 +1,19 @@
-int main () {print f("char x;\n")}
+include <stdio.h>
+int main () {print f("char x;\n")
 char x;
 x=b;
+  return 0;
+            }
 
-int main (){print f("char z;\n")}
+int main (){print f("char z;\n")
 char z;
-z=c
+z=c;
+  return 0;
+           }
 
 
-int main {print f("char grade; \n")}
+int main {print f("char grade; \n")
 char grade;
-grade= d
+grade= d;
+  return 0;
+         }
